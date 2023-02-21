@@ -1,6 +1,6 @@
 # Airbnb New York
 
-<img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique aqui para Portuguese-BR_   
+<img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique aqui para Português-BR_   
 
 <p align="center">
   <img src="airbnb_newyork1.png" height=300px>
