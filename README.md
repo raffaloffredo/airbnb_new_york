@@ -11,7 +11,7 @@ This a complete study of an exploratory data analysis to comprehend rent prices 
 
 
 * **[Code File](https://github.com/raffaloffredo/airbnb_new_york/blob/main/Airbnb_Data_Analysis_for_New_York_City.ipynb)**
-* **Article**
+* **[Article](https://www.linkedin.com/pulse/airbnb-data-analysis-new-york-city-raffaela-loffredo/)**
 * **Presentation**
 
 
